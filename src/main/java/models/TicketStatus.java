@@ -1,2 +1,5 @@
-package models;public enum TicketStatus {
+package models;
+
+public enum TicketStatus {
+    Pending,Done
 }

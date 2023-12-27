@@ -1,2 +1,4 @@
-package services;public class VehicleService {
+package services;
+
+public class VehicleService {
 }

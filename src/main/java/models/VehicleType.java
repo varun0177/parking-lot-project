@@ -1,2 +1,5 @@
-package models;public enum VehicleType {
+package models;
+
+public enum VehicleType {
+    Large,Medium,Small
 }

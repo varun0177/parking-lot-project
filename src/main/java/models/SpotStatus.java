@@ -1,2 +1,5 @@
-package models;public enum SpotStatus {
+package models;
+
+public enum SpotStatus {
+    Available,Filled,OutOfService
 }

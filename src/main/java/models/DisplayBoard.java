@@ -1,2 +1,4 @@
-package models;public class DisplayBoard {
+package models;
+
+public class DisplayBoard {
 }
